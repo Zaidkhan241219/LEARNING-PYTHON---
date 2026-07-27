@@ -3,10 +3,10 @@
 #BOOLEAN (TRUE or FALSE)
 
 is_active = True
-is_availabe = False
+is_hired = False
 print(is_active)
-print(is_availabe)
-print(type(is_availabe))
+print(is_hired)
+print(type(is_hired))
 
 #NONE (EMPTY VALUE not ZERO)
 
