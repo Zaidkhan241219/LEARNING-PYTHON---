@@ -1,4 +1,4 @@
-# File Name :- Ternary_Operator.py
+# File Name :-  Ternary_Operator.py
 
 # TERNARY OPERATOR
 
@@ -15,7 +15,7 @@
 # bigger_number= f"{a} is largest number.." if a>b else f"{b} is largest number.."
 # print(bigger_number)
 
-""" Q. A customer gets a 10% discount if the purchase amount is $500 or more;
+""" Q. A Customer gets a 10% discount if the purchase amount is $500 or more;
 otherwise,no discount. Write a program using the ternary operator to calculate the final amount."""
  
 # amount=float(input("Enter Your Total Amount ($) : ").strip())
