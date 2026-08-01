@@ -1,6 +1,6 @@
 # File Name :- Truthy_Falsy_values.py
 
-# TRUTHY FALSY QUESTIONS
+# TRUTHY-FALSY Questions
 
 # Q1. 
 # a = []
