@@ -22,7 +22,7 @@ Agar number 0 hai to "Zero" print karo."""
 # else :
 #     print("Enter Number Only")
 
-"""3 numbers input lo.Nested if ka use karke sabse bada number print karo."""
+"""Three numbers input lo.Nested if ka use karke sabse bada number print karo."""
 
 # num1=float(input("Enter 1st Number : ").strip())
 # num2=float(input("Enter 2nd Number : ").strip())
