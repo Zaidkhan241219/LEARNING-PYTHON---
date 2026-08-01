@@ -1,4 +1,4 @@
-# File Name :- String_Operations.py
+# File Name :- String_Methods.py
 # STRING METHODS
 
 a="   Hey! I am First string    "
