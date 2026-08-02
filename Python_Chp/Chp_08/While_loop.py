@@ -100,7 +100,7 @@ Check whether a given number is a Prime Number."""
 """Question 8 (While)
 Create a Number Guessing Game.
 Rules:
-Secret number = 27
+Secret number = 45
 Keep asking the user to guess until they get it right.
 Print "Too High" or "Too Low" after each wrong guess.
 Count the total number of attempts.
@@ -114,7 +114,7 @@ Guess: 27
 Correct!
 Attempts: 3"""
 
-secret_number=39
+secret_number=56
 attempt=0
 while True:
     guess=int(input("Guess Your Number : "))
