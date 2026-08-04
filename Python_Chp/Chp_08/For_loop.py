@@ -97,20 +97,20 @@ Guess: 27
 Correct!
 Attempts: 3"""
 
-# secret_number=39
-# attempt=0
-# for i in range(1,100):
-#     guess=int(input("Guess Your Number : "))
-#     attempt+=1
-#     if guess>secret_number:
-#         print("Too High")
-#     elif secret_number>guess:
-#         print("Too Low")
-#     else:
-#         print("You Guessed It Correct !!")
-#         print(f"You Made {attempt} Attempts")
-#         print("Star Pattern:")
-#         for j in range(1,attempt+1):
-#             print("*"*j)
-#         break
+secret_number=39
+attempt=0
+for i in range(1,100):
+    guess=int(input("Guess Your Number : "))
+    attempt+=1
+    if guess>secret_number:
+        print("Too High")
+    elif secret_number>guess:
+        print("Too Low")
+    else:
+        print("You Guessed It Correct !!")
+        print(f"You Made {attempt} Attempts")
+        print("Star Pattern:")
+        for j in range(1,attempt+1):
+            print("*"*j)
+        break
 
